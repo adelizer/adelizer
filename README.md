@@ -8,6 +8,15 @@
 </a>
 
 
+
+- 💼 any freelance work? do reach, [email](mailto:m.adel.abdelhady@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/madelabdelhady" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <!--
 **adelizer/adelizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
