@@ -6,8 +6,10 @@
 <a href="https://www.linkedin.com/in/maabdelhady/">
   <img align="left" alt="Mohamed Abdelhady LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br>
+<br>
 
-As a seasoned Machine Learning Engineer with experience in both computer vision and graph-based methods, I specialize in developing data-driven products and models for fraud detection and identity verification use cases. I have a proven track record of successfully leading cross-functional teams and implementing best practices to ensure efficient and robust pipelines. With a passion for research and development, I constantly seek out innovative solutions to improve the accuracy and capabilities of ML systems.
+A seasoned Machine Learning Engineer with experience in both computer vision and graph-based methods, I specialize in developing data-driven products and models for fraud detection and identity verification use cases. I have a proven track record of successfully leading cross-functional teams and implementing best practices to ensure efficient and robust pipelines. With a passion for research and development, I constantly seek out innovative solutions to improve the accuracy and capabilities of ML systems.
 
 **languages and tools:**  
 
@@ -19,9 +21,8 @@ As a seasoned Machine Learning Engineer with experience in both computer vision 
 - 💼 any freelance work? do reach, [email](mailto:m.adel.abdelhady@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-
+<br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
 <a href="https://www.buymeacoffee.com/madelabdelhady" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!--
