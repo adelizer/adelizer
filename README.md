@@ -4,7 +4,7 @@
   <img align="left" alt="Mohamed Abdelhady | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/maabdelhady/">
-  <img align="left" alt="Mohamed Abdelhady LinkedIN" width="22px" src="https://en.m.wikipedia.org/wiki/File:LinkedIn_icon.svg" />
+  <img align="left" alt="Mohamed Abdelhady LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <br>
 <br>
