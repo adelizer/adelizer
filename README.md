@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/adelizer0">
-  <img align="left" alt="Mohamed Abdelhady | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Twitter_and_X_logos.svg" />
+  <img align="left" alt="Mohamed Abdelhady | Twitter / X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Twitter_and_X_logos.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/maabdelhady/">
-  <img align="left" alt="Mohamed Abdelhady LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
+  <img align="left" alt="Mohamed Abdelhady Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <br>
 <br>
