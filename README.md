@@ -1,16 +1,13 @@
 ### Hi there 👋
-
 <a href="https://twitter.com/adelizer0">
-  <img align="left" alt="Mohamed Abdelhady | Twitter / X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Twitter_and_X_logos.svg" />
+  <img align="left" alt="Mo Abdelhady | Twitter / X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Twitter_and_X_logos.svg" />
 </a>
-
 <a href="https://www.linkedin.com/in/maabdelhady/">
   <img align="left" alt="Mohamed Abdelhady Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <br>
 <br>
-
-I am Mo, a seasoned Machine Learning Engineer with experience in both computer vision and graph-based methods, I specialize in developing data-driven products and models for fraud detection and identity verification use cases. I have a proven track record of successfully leading cross-functional teams and implementing best practices to ensure efficient and robust pipelines. With a passion for research and development, I constantly seek out innovative solutions to improve the accuracy and capabilities of ML systems.
+I am Mo, a seasoned Machine Learning Engineer and Tech Lead with experience in both computer vision and graph-based methods, I specialize in developing data-driven products and models for fraud detection and identity verification use cases. I have a proven track record of successfully leading cross-functional teams and implementing best practices to ensure efficient and robust pipelines. With a passion for research and development, I constantly seek out innovative solutions to improve the accuracy and capabilities of ML systems.
 
 **languages and tools:**
 
@@ -21,23 +18,17 @@ I am Mo, a seasoned Machine Learning Engineer with experience in both computer v
 -   💼 any freelance work? do reach, [email](mailto:m.adel.abdelhady@gmail.com) :)
 -   💬 ask me about anything, i am happy to help;
 -   🏗️ currently building https://www.imfdatainsights.com/
-
--   🌱 I’m currently expreimenting with indie hacking
-
-<br>
-if you like what i do :)
-
-<a href="https://www.buymeacoffee.com/madelabdelhady" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+-   🌱 aspiring indie dev
 
 <!--
 **adelizer/adelizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
