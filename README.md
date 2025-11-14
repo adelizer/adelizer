@@ -1,3 +1,5 @@
+<img align="left" alt="Mohamed Abdelhady" width="150px" src="https://moabdelhady.com/images/profile.jpg" style="border-radius: 50%;" />
+
 ### Hi there 👋
 <a href="https://twitter.com/adelizer0">
   <img align="left" alt="Mohamed Abdelhady | Twitter / X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Twitter_and_X_logos.svg" />
@@ -20,7 +22,6 @@ I am Mo, a seasoned Machine Learning Engineer and Tech Lead with experience in b
 
 -   💼 any freelance work? do reach, [email](mailto:m.adel.abdelhady@gmail.com) :)
 -   💬 ask me about anything, i am happy to help;
--   🏗️ currently building https://www.imfdatainsights.com/
 -   🌱 aspiring indie dev
 
 <!--
