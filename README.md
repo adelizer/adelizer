@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/maabdelhady/">
   <img align="left" alt="Mohamed Abdelhady Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
+<a href="https://moabdelhady.com">
+  <img align="left" alt="Mohamed Abdelhady Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Internet-web-browser.svg" />
+</a>
 <br>
 <br>
 I am Mo, a seasoned Machine Learning Engineer and Tech Lead with experience in both computer vision and graph-based methods, I specialize in developing data-driven products and models for fraud detection and identity verification use cases. I have a proven track record of successfully leading cross-functional teams and implementing best practices to ensure efficient and robust pipelines. With a passion for research and development, I constantly seek out innovative solutions to improve the accuracy and capabilities of ML systems.
